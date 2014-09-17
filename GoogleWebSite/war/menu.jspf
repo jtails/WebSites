@@ -1,0 +1,82 @@
+    <!-- ============================  Dropdown Info Start ============================ -->
+    <section class="dropdown-info">
+      <div class="container">
+        <div class="row">
+          <div class="span12">
+            <div class="contact-info-widget pull-right">
+              <a href="#" id="info-activator"><i class="icon-angle-down"></i></a>
+              <ul class="unstyled inline">
+                <li><i class="icon-phone icon-large"></i> <span class="info">55-21-06-7045</span></li>
+                <li><i class="icon-envelope-alt icon-large"></i> <span class="info">ventas@jtails.mx</span></li>
+              </ul>
+            </div> <!-- end contact-info-widget -->
+
+          </div> <!-- end span12 -->
+        </div> <!-- end row -->
+      </div> <!-- end container -->
+    </section> <!-- end dropdown-info -->
+    <!-- ============================  Dropdown Info End ============================ -->
+    
+    <!-- ============================  Main Nav Start ============================ -->
+    <section class="main-nav">
+      <div class="container">
+        <div class="navbar">
+          <div class="navbar-inner">
+            <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+            
+            <!-- Be sure to leave the brand out there if you want it shown -->
+            <a class="brand" href="index.jsp"><img src="img/logo.png" alt="logo"></a>
+            
+            <!-- Everything you want hidden at 940px or less, place within here -->
+            <div class="nav-collapse collapse">
+              <!-- .nav, .navbar-search, .navbar-form, etc -->
+
+              <ul class="nav pull-right">
+                <li><a href="index.jsp">Inicio</a>
+                 <!--<ul class="dropdown-menu">
+                    <li><span class="list-circle"></span> <a href="index.jsp">Jtails</a></li>
+                    <li><span class="list-circle"></span> <a href="index3.jsp">Home 3</a></li>
+                  </ul>-->
+
+                </li>
+                <li class="dropdown">
+                  <a href="about-us.jsp" class="dropdown-toggle" data-toggle="dropdown">Quienes Somos <i class="icon-angle-down"></i></a>
+                  <ul class="dropdown-menu">
+                    <li><span class="list-circle"></span> <a href="acerca.jsp">Acerca de Jtails</a></li>
+                    <!--<li><span class="list-circle"></span> <a href="services.jsp">Services</a></li>
+                    <li><span class="list-circle"></span> <a href="shortcodes.jsp">Shortcodes</a></li>
+                    <li><span class="list-circle"></span> <a href="404.jsp">404 Error</a></li>-->
+                  </ul>
+                </li>
+                <li class="dropdown"><a href="services.jsp" class="dropdown-toggle" data-toggle="dropdown">Servicios <i class="icon-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                      <li><span class="list-circle"></span> <a href="servicios.jsp">Nuestra Oferta</a></li>
+                      <!--<li><span class="list-circle"></span> <a href="blog2.jsp">Blog 2</a></li>
+                      <li><span class="list-circle"></span> <a href="single-page.jsp">Single Page</a></li>-->
+                    </ul>
+                </li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Conoce mas <i class="icon-angle-down"></i></a>
+                  <ul class="dropdown-menu">
+                    <!--<li><span class="list-circle"></span> <a href="portfolio-3c.jsp">Portfolio 3 Columns</a></li>
+                    <li><span class="list-circle"></span> <a href="portfolio-4c.jsp">Portfolio 4 Columns</a></li>-->
+                    <li><span class="list-circle"></span> <a href="detalle.jsp">Detalle de Servicios</a></li>
+                    <!--<li><span class="list-circle"></span> <a href="portfolio-mix.jsp">Portfolio Mix Columns</a></li>
+                    <li><span class="list-circle"></span> <a href="single-project.jsp">Single Project</a></li>-->
+                  </ul>
+                </li>
+                <li><a href="contacto.jsp">Contacto</a></li>
+               
+              </ul> <!-- end nav -->
+
+            </div> <!-- end nav-collapse -->
+          </div> <!-- end navbar-inner -->
+        </div> <!-- end navbar -->
+      </div> <!-- end container -->
+    </section> <!-- end main-nav -->
+    <!-- ============================  Main Nav End ============================ -->

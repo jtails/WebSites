@@ -1,0 +1,3 @@
+# Module website
+# RPC service class, partial path of RPC policy file
+mx.jtails.website.client.GreetingService, 0050A2DD939428DFF842EB8430433DB0.gwt.rpc

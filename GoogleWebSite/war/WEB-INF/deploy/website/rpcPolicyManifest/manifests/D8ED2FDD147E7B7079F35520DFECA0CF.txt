@@ -1,0 +1,2 @@
+serviceClass: mx.jtails.website.client.GreetingService
+path: 0050A2DD939428DFF842EB8430433DB0.gwt.rpc

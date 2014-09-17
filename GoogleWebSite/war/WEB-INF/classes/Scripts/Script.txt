@@ -1,0 +1,1 @@
+create table opiniones(id integer primary key auto_increment not null,like_ varchar(100),nolike_ varchar(100),comentario varchar(10000),session varchar(10000),fecha date);
