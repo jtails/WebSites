@@ -250,8 +250,33 @@
           <div class="span4">
             <div class="recent-post">
               <figure class="recent-post-img">
-                <img src="img/work/moodle.png" alt="img">
+                <img src="img/work/homelike.jpg" alt="img" style="width:348px;height:178px">
               </figure> <!-- end recent-post-img -->
+
+              <div class="post-content">
+                  <h5 class="title"><a href="#"><span>HomeLike</span></a></h5>
+                  <p class="content" style="text-align:justify">HomeLike es un sistema de pedidos en linea que busca poner a su disposición una gama de servicios comunes, tales como AGUA,GAS,TINTORERIAS cercanos a su ubicación GPS,HomeLike esta disponible para dispositivos basados en Android y Web, ya sea que usted sea un cliente o un posible proveedor HomeLike esta a su alcance</a>
+                  </p>
+                  <p class="content" style="text-align:justify">Actualmente estamos en un periodo inicial, asi que si aun no se cuentan con proveedores sercanos a su ubicación, agradeceremos nos envien una sugerencia del tipo "Alta de proveedor" desde la misma aplicación en la seccion comentarios <a href="#" class="read-more" title="Read More ..."><img src="img/read-more.png" alt="img"></a>
+                  </p>
+
+                  <ul class="unstyled inline post-meta">
+                    <li><a href="#"><i class="icon-calendar"></i>  <span>1 Days Ago</span></a></li>
+                    <li><a href="#"><i class="icon-comments"></i> <span>75 Comments</span></a></li>
+                  </ul> <!-- end post-meta -->
+
+
+                </div> <!-- end post-content -->
+
+            </div> <!-- end recent-post -->
+          </div> <!-- end span4 -->
+          
+          <!-- 
+          	 <div class="span4">
+            <div class="recent-post">
+              <figure class="recent-post-img">
+                <img src="img/work/moodle.png" alt="img">
+              </figure>
 
               <div class="post-content">
                   <h5 class="title"><a href="#"><span>Moodle</span></a></h5>
@@ -263,13 +288,14 @@
                   <ul class="unstyled inline post-meta">
                     <li><a href="#"><i class="icon-calendar"></i>  <span>3 Days Ago</span></a></li>
                     <li><a href="#"><i class="icon-comments"></i> <span>75 Comments</span></a></li>
-                  </ul> <!-- end post-meta -->
+                  </ul>
 
 
-                </div> <!-- end post-content -->
+                </div>
 
-            </div> <!-- end recent-post -->
-          </div> <!-- end span4 -->
+            </div>
+          </div>
+           -->
 
 
 

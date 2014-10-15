@@ -224,6 +224,34 @@
               </div> <!-- end portfolio-list-container -->
             </div><!--  end span6 -->
             
+            
+            <div class="span12 ">
+              <div class="portfolio-list-container transition metal">
+                <div class="row-fluid">
+                  <div class="span6">
+                    <div class="img-container">
+                        <figure class="recent-work-img">
+                          <img src="img/work/homelike.jpg" alt="img" style="width:550px;height:270px">
+                        </figure>  <!-- end recent-work-img -->
+                      </div> <!-- end img-container -->
+                  </div> <!-- end span6 -->
+                  <div class="span6">
+                    <div class="portfolio-content-container">
+					  <a name="quinto"></a>
+                      <h5 class="title"><a href="#">HomeLike</a></h5>
+                      <p class="content">(Sistema de pedidos en línea)</p>
+                      <p class="content" style="text-align:justify">HomeLike es un sistema de pedidos en linea que busca poner a su disposición una gama de servicios comunes, tales como AGUA,GAS,TINTORERIAS cercanos a su ubicación GPS,HomeLike esta disponible para dispositivos basados en Android y Web, ya sea que usted sea un cliente o un posible proveedor HomeLike esta a su alcance</p>
+                  	  <p class="content" style="text-align:justify">Actualmente estamos en un periodo inicial, asi que si aun no se cuentan con proveedores sercanos a su ubicación, agradeceremos nos envien una sugerencia del tipo "Alta de proveedor" desde la misma aplicación en la seccion comentarios</p>
+					  <a href="#" class="read-more" title="Leer más ...">Leer más &nbsp; &nbsp; <img src="img/read-more.png" alt="img"></a>
+
+                    </div> <!-- end portfolio-content-container -->
+                  </div> <!-- end span6 -->
+                </div> <!-- end row-fluid -->
+              </div> <!-- end portfolio-list-container -->
+            </div><!--  end span6 -->
+            
+            
+            
              <div class="span12 ">
               <div class="portfolio-list-container transition metal">
                 <div class="row-fluid">
@@ -247,6 +275,15 @@
                 </div> <!-- end row-fluid -->
               </div> <!-- end portfolio-list-container -->
             </div><!--  end span6 -->
+            
+            
+            
+            
+            
+            <p class="content" style="text-align:justify">HomeLike es un sistema de pedidos en linea que busca poner a su disposición una gama de servicios comunes, tales como AGUA,GAS,TINTORERIAS cercanos a su ubicación GPS,HomeLike esta disponible para dispositivos basados en Android y Web, ya sea que usted sea un cliente o un posible proveedor HomeLike esta a su alcance</a>
+                  </p>
+                  <p class="content" style="text-align:justify">Actualmente estamos en un periodo inicial, asi que si aun no se cuentan con proveedores sercanos a su ubicación, agradeceremos nos envien una sugerencia del tipo "Alta de proveedor" desde la misma aplicación en la seccion comentarios <a href="#" class="read-more" title="Read More ..."><img src="img/read-more.png" alt="img"></a>
+                  </p>
             
             </div> <!--end portfolio-container-->
           </div> <!-- end row -->
