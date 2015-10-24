@@ -10,11 +10,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="moosethemes">
-    <meta name="description" content="">
+    <meta name="author" content="Jtails">
+    <meta name="description" content="Jtails - Expertos en Soluciones Google">
+	<meta name="keywords" content="jtails,Jtails,Google,google,Oracle,oracle,sistemas,Sistemas,Mexico,mexico,D.F,Google Cloud, Google for Business,Android,Java,WebLogic,Certified,Sun,Solaris,Mobile,Movil,Linux,Administrator,SOA,OSB,ODI,BAM" />
+	
 	<link rel="shortcut icon" href="img/jtails.ico" type="image/x-icon">
 	
 
+	
     <title>Jtails</title>
 
     <!-- Bootstrap Styles -->
